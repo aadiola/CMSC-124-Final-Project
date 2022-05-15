@@ -4,7 +4,7 @@ This project presents a comparative analysis of __Octave__ and __Python__ typese
 
 ## CMSC 124
 
-CMSC 124, or better known as Design and Implementation of Programming Language, is a theory and programming course offered for Computer Science students in the [upcebu.edu.ph](University of the Philippines Cebu) during their junior year. This course primarily deals with programming languages (PL) and is encompassed by the following topics:
+CMSC 124, or better known as Design and Implementation of Programming Language, is a theory and programming course offered for Computer Science students in the [University of the Philippines Cebu](upcebu.edu.ph) during their junior year. This course primarily deals with programming languages (PL) and is encompassed by the following topics:
 
 - History and various types of PLs
 - Syntax and semantics
